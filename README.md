@@ -1,2 +1,2 @@
 # Engenharia Gramatical - lark
-Some lark implementations used to demonstrate to students during practical lessons of Engenharia Gramaticalat Universidade do Minho.
+Some lark implementations used to demonstrate to students during practical lessons of Engenharia Gramatical at Universidade do Minho.
