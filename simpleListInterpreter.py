@@ -10,8 +10,6 @@ from lark.visitors import Interpreter
 class MyInterpreter(Interpreter):
     def __init__(self):
         self.comprimento = 0
-        #self.soma = 0
-
 
     def start(self, tree):
         print("On root, visiting elements")
